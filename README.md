@@ -52,4 +52,6 @@
 </body>
 </html>
     <h1 align="center">大模型概念</h1>
+    ![这里写图片的文字描述](images/1.png)
+    
     
