@@ -52,6 +52,6 @@
 </body>
 </html>
     <h1 align="center">大模型概念</h1>
-    <img src="1.png"/>
+    <img src="1.png.png"/>
     
     
