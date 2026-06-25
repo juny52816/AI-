@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">AI models introduce</h1>
-<h1 align="center" >带小白们认识不同的知识，用最简易的描述来了解AI大模型原理！！！注：资源来自腾讯Ascoend，上海交通大学课教<h1>
+<h1 align="center" >带小白们认识不同的知识，用最简易的描述来了解AI大模型原理！！！注：本内容以作者总结分享，用上海交大课教当素材<h1>
 </p>
 <p align="center">
   	<a href="https://img.">
@@ -66,5 +66,9 @@
     <h1 align="center">智能躯体动的行为智能</h1>
     <img src="4.png"/>
     <h3>无处不在的"贾维斯"，大模型智能体展现出广泛的应用前景 </h3>
+    <h1 align="center">预训练语言模型</h1>
+    <h1 align="center">语言智能新范式——预训练语言模型（代表：ELMo,BERT,GPT-1/2）</h1>
+    <h3>大模型数据上自监督预训练，经微调后适配各类任务，有效利用大数据，大模型和大算力</h3>
+    <h3>主要应用于语言解析和理解任务</h3>
   </html> 
   
