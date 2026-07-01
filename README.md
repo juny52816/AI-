@@ -100,5 +100,27 @@
     <img src="12.PNG">
     <h1 align="center">大模型的能力版图</h1>
     <img src="13.PNG">
+    <h1 align="center">大模型概念延伸</h1>
+     <img src="14.PNG"/>
+     <h1 align="center">垂域大模型</h1>
+    <h3>基本范式：在通用大模型基础上进行领域训练增强，专业性强，落地速度快，成本效应高，合规性好</h3>     
+    <h3>训练方式：领域数据训练（继续预训练，微调，提示），检索增强等</h3>
+    <h3>常见领域：教育，医疗，法律，金融等</h3>
+    <img src="15.PNG"/>
+    <h1 align="center">多模态大模型</h1>
+    <h3>多模态大模型的能力突破，成为大模型前沿发展的新趋势和焦点</h3>
+    <h3>极大拓展大模型能力边界和应用场景，智能跃迁的下一个关键引擎</h3>
+     <img src="16.PNG"/>
+    <h1 align="center">大模型智能体</h1>
+    <img src="17.PNG"/>
+    <h1 align="center">大模型智能体的概念</h1>
+    <h3>基于大模型构建，能够动态指导其自身流程和工具使用，并根据实时反馈调整自己的操作的系统</h3>
+    <img src="18.PNG"/>
+    <h1 align="center">大模型智能体的构建方式</h1>
+    <img src="19.PNG"/>
+    <h1 align="center">大模型相关的安全风险</h1>
+    <img src="20.PNG"/>
+    <h1 align="center">风险案例</h1>
+    <img src="21.PNG"/>
   </html> 
   
